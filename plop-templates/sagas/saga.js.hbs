@@ -1,0 +1,11 @@
+import * as types from '../../actions/actionsTypes';
+import { call, put, takeLatest } from 'redux-saga/effects';
+import { authFailed, authSucceeded } from '../../actions/auth';
+
+function* {{name}}Saga(action) {
+}
+
+const receiver = takeLatest(types.REQUESTED, {{name}}Saga);
+
+export default receiver;
+export { {{name}}Saga, receiver };
