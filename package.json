@@ -1,12 +1,12 @@
 {
   "name": "plop-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "Example using plop js",
   "main": "index.js",
   "scripts": {
     "plop": "plop"
   },
-  "author": "",
+  "author": "Rubén López",
   "license": "ISC",
   "devDependencies": {
     "plop": "^2.6.0"
