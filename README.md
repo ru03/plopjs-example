@@ -2,6 +2,8 @@
 
 This is just an example of [Plop](https://plopjs.com/) library and how you can add new files from templates using this library.
 
+This repo has been used it as example in the following post: [Paradigma Post](https://www.paradigmadigital.com/dev/plop-js-creando-archivos-con-uniformidad/)
+
 ## How it works this repo?
 
 1. Install dependencies.
